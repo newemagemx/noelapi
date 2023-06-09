@@ -1,0 +1,14 @@
+{
+  "name": "noel-api",
+  "version": "1.0.0",
+  "description": "Noel Schajris API Documentation",
+  "scripts": {
+    "build": "postman-to-markdown index.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "postman-to-markdown": "^1.1.0"
+  }
+}
