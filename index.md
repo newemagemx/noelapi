@@ -11,8 +11,8 @@
 
 ```json
 {
-    "username":"newemage",
-    "password":"Newemage*2020"
+    "username":"USER",
+    "password":"PASSWORD"
 }
 ```
 
