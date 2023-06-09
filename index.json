@@ -28,7 +28,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"username\":\"newemage\",\r\n    \"password\":\"Newemage*2020\"\r\n}",
+							"raw": "{\r\n    \"username\":\"user\",\r\n    \"password\":\"Password\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
